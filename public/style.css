@@ -1,0 +1,104 @@
+/*Classes Container*/
+.myContainer{
+    border-radius: 10px;
+    padding: 20px;
+    width: 50%;
+    margin-top: 4%;
+}
+
+.otherContainer{
+    background-color: rgb(102, 155, 188);
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 4%;
+    width: 60%;
+}
+
+.wholeContainer{
+    width: 100%;
+    background-color: #0e1124;
+    padding: 20px;
+    border-bottom: 2px;
+    border-color: black;
+}
+
+.pezinho{
+    background-color: #222224;
+    padding: 30px;
+    text-align: center;
+}
+
+/*Classes de margem*/
+.mgT-2{
+    margin-top: 2%;
+}
+
+.mgT-4{
+    margin-top: 4%;
+}
+
+.mgT-7{
+    margin-top: 7%;
+}
+
+.mgT-10{
+    margin-top: 10%;
+}
+
+.mgL-6{
+    margin-left: 6%;
+}
+
+.mgL-8{
+    margin-left: 8%;
+}
+
+.mgL-10{
+    margin-left: 10%;
+}
+
+.mgL-20{
+    margin-left: 20%;
+}
+
+.mgB-4{
+    margin-bottom: 4%;
+}
+
+.mgB-6{
+    margin-bottom: 6%;
+}
+
+.mgB-10{
+    margin-bottom: 10%;
+}
+
+.mgB-15{
+    margin-bottom: 15%;
+}
+
+.mgLR-5{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.myPadding{
+    padding: 10px;
+}
+
+/*Classes Texto*/
+.texto-branco{
+    color: white;
+}
+
+p{
+    font-family: 'Dosis', sans-serif;
+}
+
+.texto-central{
+    text-align: center;
+}
+
+/*IMPORTS*/
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&display=swap');
